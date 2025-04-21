@@ -6,3 +6,7 @@
 1. Clone a local verion of this Git repository:
 ```bash
 git clone https://github.com/Zahpotts/Prove-It.git
+
+2. Test the code
+``` bash
+npm test
