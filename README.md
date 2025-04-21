@@ -5,4 +5,4 @@
 ## Project Setup
 1. Clone a local verion of this Git repository:
 ```bash
-git clone 
+git clone https://github.com/Zahpotts/Prove-It.git
