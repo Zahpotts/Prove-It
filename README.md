@@ -2,11 +2,15 @@
 
 ## In this project, I have built a **mini version of a Mortgage Calculator** with a strong focus on **Unit Testing** and **Intergration (End-to-End) Testing.**
 
-## Project Setup
-1. Clone a local verion of this Git repository:
+## Quick Start
+
 ```bash
+# Clone a local verion of this Git repository: 
 git clone https://github.com/Zahpotts/Prove-It.git
 
-2. Test the code
-``` bash
+
+# Install the dependencies 
+npm install
+
+# Test the code
 npm test
